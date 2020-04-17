@@ -63,11 +63,18 @@ When the user has completed building the team, the application will create an HT
  ```
  npm install 
 ```  
- 3. Run app.js in command-line
+
+#### To run the CLI app 
+Run app.js in command-line
  ```
  node app.js
  ```
+ #### To run the test
  
+ Run test.js in command-line
+ ```
+ nom run test
+ ```
  
 ## Badges
 ![node](https://img.shields.io/node/v/latest?style=plastic)
