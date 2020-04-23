@@ -41,7 +41,6 @@ The application will be invoked and run in terminal.
 
 The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
 
-Users will then be prompted with questions about their project.Readme file will be generated based on users answer.
 <img src="https://github.com/mila-mamat/homework9-employee-summary/blob/master/gif/demo.gif" alt="Sample run" width="600" height="400">
 
 
