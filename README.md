@@ -72,7 +72,7 @@ Run app.js in command-line
  
  Run test.js in command-line
  ```
- nom run test
+ npm run test
  ```
  
 ## Badges
