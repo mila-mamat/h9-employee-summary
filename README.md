@@ -7,7 +7,7 @@
 <h2 align="center">Team Summary Builder</h2>
 
 <p align="center">
-By Mila Mamat
+Node, Inquirer, Jest
 </p>
 <br />
 </p>
